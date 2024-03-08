@@ -1,0 +1,3 @@
+ola turma
+
+    Estamos em um curso sobre Git
