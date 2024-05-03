@@ -2,4 +2,4 @@ ola turma
 
     Estamos em um curso sobre Git
 
-    Mais uma linha modificada
+    Mais uma linha modificada!
